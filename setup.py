@@ -20,7 +20,6 @@ setup(
     author='Pancentric Ltd',
     author_email='devops@pancentric.com',
     install_requires=[
-        'django<2.0.0',
         'imgix<2.0.0',
     ],
     classifiers=[
